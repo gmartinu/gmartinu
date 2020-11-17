@@ -9,7 +9,6 @@
 
 My name is Gabriel Martinusso, a Analysis and Systems Development student at the IBMR Laureate International Universities in Rio de Janeiro and Web Developer Jr.
 
-- :office_worker: [Inpartec](https://www.inpartec.com.br/)
 - :blue_heart: Techs: React, React Native, NodeJS, among others.
 - :books: Studying all layers in Software Development and Open Source :heart:
 
