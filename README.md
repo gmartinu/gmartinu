@@ -7,7 +7,7 @@
 
 ## Hi! 👋
 
-My name is Gabriel Martinusso, a System Development and Analysis student at the IBMR Laureate International Universities in Rio de Janeiro and Web Developer Jr.
+My name is Gabriel Martinusso, a System Development and Analysis student at the IBMR Laureate International Universities in Rio de Janeiro and Web Developer.
 
 - :blue_heart: Techs: React, React Native, NodeJS, among others.
 - :books: Studying all layers in Software Development and Open Source :heart:
