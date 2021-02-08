@@ -26,6 +26,11 @@ My name is Gabriel Martinusso, a System Development and Analysis student at the 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+**Some React-App examples:**
+
+- [Calculator App](https://gmartinu.github.io/calc-app/)
+- [To-Do App](https://gmartinu.github.io/todo-app/)
+
 ## My Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gmartinu&show_icons=true&hide_border=true)
