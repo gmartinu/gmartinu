@@ -1,9 +1,4 @@
-# :man_technologist: Gabriel Martinusso
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/gmartinu)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/gmartinu/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521996725034&text=Hi!)](https://api.whatsapp.com/send?phone=5521996725034&text=Hi!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabmartinu@gmail.com)](mailto:gabmartinu@gmail.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=034F0E&size=35&center=true&vCenter=true&width=1000&lines=HI+=D,+My+name+is+Gabriel;I'm+a+FullStack+Developer!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## Hi! 👋
 
@@ -33,6 +28,20 @@ My name is Gabriel Martinusso, a System Development and Analysis student at the 
 
 ## My Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gmartinu&show_icons=true&hide_border=true)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gmartinu&show_icons=true&count_private=true&hide_border=true&title_color=034F0E&icon_color=034F0E&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmartinu&layout=compact&count_private=true&hide_border=true&title_color=034F0E&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 ---
+
+  ##
+  
+<div align="center"> 
+  <a href = "mailto:gabmartinu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gmartinu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=034F0E&height=120&section=footer"/>
+
